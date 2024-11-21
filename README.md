@@ -18,5 +18,5 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufian-008&show_icons=true&locale=en&layout=compact" alt="sufian-008" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufian-008&" alt="sufian-008" /></p>
-  <\div>
+  </div>
 
