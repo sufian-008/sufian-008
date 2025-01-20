@@ -91,6 +91,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufian-008&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </p>
   <p>
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=sufian-008&theme=white)](https://git.io/streak-stats)
+<img align="center" src="https://streak-stats.demolab.com?user=sufian-008" alt="GitHub Streak Stats" />
+
   </p>
 </div>
