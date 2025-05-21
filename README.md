@@ -61,10 +61,16 @@
 
 ---
 
+<h3 align="left">⚡ Strike Rate:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/strike_rate-85%25-brightgreen" alt="Strike Rate" />
+</p>
+
+---
+
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufian-008&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </p>
-
 </div>
