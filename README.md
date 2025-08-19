@@ -1,9 +1,10 @@
 ## **Hey** ✋ **I'm [ Sufian](https://github.com/sufian-008), Good to see you here!**
 
 ## About Me 🙂
-- *A passionate **Software developer** exploring **full-stack development***
-- ***Open-source** enthusiast*
-- *Trying and **learning** new technologies*
+*A passionate **Software Developer** crafting elegant and efficient solutions*  
+- ***Open-source advocate** contributing to projects that matter*  
+- *Forever **curious**, exploring new technologies and pushing boundaries*  
+- *Driven by **problem-solving**, with a love for clean code and innovation*
 #### Checkout my [bio.link](https://sufian.bio.link) profile for more details.
 
 ---
@@ -32,15 +33,13 @@
 
 <h2 align="center">Let's Connect</h2>
 <p align="center">
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/your_linkedin">
+
+  <a href="www.linkedin.com/in/mdsufian008">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://medium.com/@your_medium">              
   </a>
-  <a href="https://www.instagram.com/your_instagram">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="[https://www.instagram.com/your_instagram](https://www.facebook.com/md.anowerhossen.9028194/">
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
 </p>
