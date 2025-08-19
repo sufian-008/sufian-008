@@ -1,76 +1,47 @@
-<h1 align="center">Hi 👋, I'm MD Abu Sufian</h1>
-<h3 align="center">A passionate Programmer</h3>
+## **Hey**  **I'm [Md Abu Sufian](https://github.com/sufian-008), Good to see you here!**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sufian-008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 💬 **Ask me about**: **Java, JavaScript, C++**  
-- 📫 **How to reach me**: **m.a.sufian008@gmail.com**
+## About Me 🙂
+- *A passionate **Software developer** exploring **full-stack development***
+- ***Open-source** enthusiast*
+- *Trying and **learning** new technologies*
+#### Checkout my [bio.link](https://sufian.bio.link) profile for more details.
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-abu-sufian-b01137229/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+<h2 align="center">Statistics 📈 </h2>
+
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=sufian-008&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Sufian's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufian-008&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
+<h2 align="center">Contribution Graph 📊</h2>
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
+[![Sufian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sufian-008&theme=chartreuse-dark)](https://github.com/sufian-008/github-readme-activity-graph)
 
-  <!-- Frameworks -->
+---
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+<h2 align="center">Tools & Technologies ⚡</h2>
+<p align="center">
+  <a href="https://github.com/sufian-008">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,git" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-
-  <!-- DevOps -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
-  </a>
-
 </p>
 
 ---
 
-<h3 align="left">⚡ Strike Rate:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/strike_rate-85%25-brightgreen" alt="Strike Rate" />
+<h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"></h2>
+<p align="center">
+  <a href="https://twitter.com/your_twitter">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/your_linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://medium.com/@your_medium">              
+    <img src="https://gist.githubusercontent.com/haldaranup/d3e2a54e5909a37cb7cf212bf83b3e6c/raw/63631d4cfd5d53de4513ac774f0008aa235c6aba/medium.png" height="48" width="48" />
+  </a>
+  <a href="https://www.instagram.com/your_instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufian-008&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </p>
-</div>
