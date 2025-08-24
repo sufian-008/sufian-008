@@ -14,7 +14,7 @@ A strong believer in teamwork, thriving in collaborative environments to build i
 
 <h2 align="center">Statistics 📈 </h2>
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=sufian-008&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Sufian's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufian-008&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=sufian-008&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Sufian's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufian-008&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
