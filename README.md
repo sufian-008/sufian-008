@@ -1,11 +1,14 @@
 ## **Hey** ✋ **I'm [ Sufian](https://github.com/sufian-008), Good to see you here!**
 
 ## About Me 🙂
-*A passionate **Software Developer** crafting elegant and efficient solutions*  
-- ***Open-source advocate** contributing to projects that matter*  
-- *Forever **curious**, exploring new technologies and pushing boundaries*  
-- *Driven by **problem-solving**, with a love for clean code and innovation*
-#### Checkout my [bio.link](https://sufian.bio.link) profile for more details.
+"A passionate Software Developer crafting elegant and efficient solutions
+
+Forever curious, exploring new technologies and pushing boundaries
+
+Driven by problem-solving, with a love for clean code and innovation
+
+A strong believer in teamwork, thriving in collaborative environments to build impactful solutions"
+
 
 ---
 
