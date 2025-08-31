@@ -1,7 +1,7 @@
 ## **Hey** ✋ **I'm [ Sufian](https://github.com/sufian-008), Good to see you here!**
 
 ## About Me 🙂
-A passionate Software Developer dedicated to crafting elegant and efficient solutions. Constantly curious, I explore new technologies and push boundaries. I thrive on problem-solving, writing clean code, and driving innovation. A strong believer in teamwork, I excel in collaborative environments to deliver impactful results.
+I am an enthusiastic aspiring Software Developer with a strong passion for learning and building efficient solutions. I have good communication skills, a love for problem-solving, and a commitment to hard work. Always curious, I enjoy exploring new technologies and thrive in collaborative environments.
 
 
 ---
